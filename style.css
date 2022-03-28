@@ -35,3 +35,28 @@ a {
   padding: 10px 0;
   flex-grow: 1;
 }
+.heading {
+  margin: 22px auto 12px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/2560px-Instagram_logo.svg.png");
+  background-position: -98 0;
+  height: 51px;
+  width: 177px;
+  overflow: hidden;
+}
+.field {
+  margin: 10px 0;
+  position: relative;
+  font-size: 14px;
+  width: 100%;
+  text-overflow: ellipsis;
+}
+input {
+  padding: 9px 0px 9px 7px;
+  font-size: 12px;
+  width: 16rem;
+  height: 1.2rem;
+  outline: none;
+  background: #fafafa;
+  border-radius: 3px;
+  border: 1px solid #efefef;
+}
